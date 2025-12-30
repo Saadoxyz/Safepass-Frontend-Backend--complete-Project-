@@ -1465,7 +1465,7 @@ Include in feature requests:
 ### Get Help
 
 - **Email**: saadoxyz@gmail.com
-- **Documentation**: [Wiki](https://github.com/saadoxyz/Safepass-Frontend-Backend--complete-Project-/documentation)
+- **Documentation**: [Wiki](https://github.com/saadoxyz/Safepass-Frontend-Backend--complete-Project-/Documentation.pdf)
 
 ##  Project Statistics
 

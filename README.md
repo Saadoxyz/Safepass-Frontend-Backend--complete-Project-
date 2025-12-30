@@ -17,7 +17,7 @@
 
 ---
 
-## 📑 Table of Contents
+## Table of Contents
 
 - [Overview](#overview)
 - [Key Features](#key-features)
@@ -37,7 +37,7 @@
 
 ---
 
-## 🎯 Overview
+## Overview
 
 SafePass is a comprehensive, enterprise-grade visitor and access management system designed to revolutionize how organizations handle visitor check-ins, gate pass generation, and access control. Built with modern technologies and security best practices, SafePass provides a seamless experience for visitors, hosts, and security personnel.
 
@@ -55,9 +55,9 @@ SafePass digitizes and automates the entire visitor management lifecycle from pr
 
 ---
 
-## ✨ Key Features
+## Key Features
 
-### 🎫 Visitor Management
+### Visitor Management
 
 - **Self-Service Registration Portal**
   - Web-based registration accessible from any device
@@ -77,7 +77,7 @@ SafePass digitizes and automates the entire visitor management lifecycle from pr
   - Detailed timeline view
   - Search and filter capabilities
 
-### 🔐 Gate Pass System
+### Gate Pass System
 
 - **QR Code Generation**
   - Automatic unique QR code generation
@@ -97,7 +97,7 @@ SafePass digitizes and automates the entire visitor management lifecycle from pr
   - Extend pass validity
   - Track usage history
 
-### 📊 Real-Time Dashboards
+### Real-Time Dashboards
 
 - **Host Dashboard**
   - Visitor overview and statistics
@@ -120,7 +120,7 @@ SafePass digitizes and automates the entire visitor management lifecycle from pr
   - Reports hub
   - System settings
 
-### 📈 Reporting & Analytics
+### Reporting & Analytics
 
 - **Pre-Built Reports**
   - Daily visitor reports
@@ -142,7 +142,7 @@ SafePass digitizes and automates the entire visitor management lifecycle from pr
   - Approval rates
   - Geographic distribution
 
-### 🔒 Security Features
+### Security Features
 
 - **Authentication & Authorization**
   - JWT-based authentication
@@ -167,7 +167,7 @@ SafePass digitizes and automates the entire visitor management lifecycle from pr
   - GDPR compliance
   - Data retention policies
 
-### 🔔 Real-Time Notifications
+### Real-Time Notifications
 
 - **Email Notifications**
   - Registration confirmation
@@ -188,7 +188,7 @@ SafePass digitizes and automates the entire visitor management lifecycle from pr
 
 ---
 
-## 🛠️ Technology Stack
+## Technology Stack
 
 ### Frontend
 - **Next.js 14+**: React framework with SSR and API routes
@@ -220,7 +220,7 @@ SafePass digitizes and automates the entire visitor management lifecycle from pr
 
 ---
 
-## 🏗️ System Architecture
+## System Architecture
 
 ### High-Level Architecture
 
@@ -444,7 +444,7 @@ npm run dev
 
 ---
 
-## 💻 User Workflows
+## User Workflows
 
 ### Workflow 1: Visitor Pre-Registration
 
@@ -565,7 +565,7 @@ Notify host
 
 ---
 
-## 📡 API Endpoints
+## API Endpoints
 
 ### Authentication Endpoints
 
@@ -633,7 +633,7 @@ Common query parameters across endpoints:
 
 ---
 
-## 🗄️ Database Schema
+##  Database Schema
 
 ### Users Collection
 
@@ -873,7 +873,7 @@ AuditLogs ──── many:1 ───→ Users
 
 ---
 
-## 🔌 WebSocket Events
+##  WebSocket Events
 
 ### Connection Setup
 
@@ -937,7 +937,7 @@ Client connects to WebSocket server at `ws://localhost:3002` with JWT authentica
 
 ---
 
-## 🔒 Security
+## Security
 
 ### Authentication
 
@@ -1009,7 +1009,7 @@ All responses include:
 
 ---
 
-## 🚀 Deployment
+##  Deployment
 
 ### Pre-Deployment Checklist
 
@@ -1390,7 +1390,7 @@ db.visitors.find({status: 'APPROVED'}).explain("executionStats")
 
 ---
 
-## 🤝 Contributing
+## Contributing
 
 We welcome contributions to SafePass!
 
@@ -1460,63 +1460,14 @@ Include in feature requests:
 
 ---
 
-## 📞 Support
+## Support
 
 ### Get Help
 
-- **Email**: support@safepass.com
-- **GitHub Issues**: [Report Issues](https://github.com/yourusername/safepass/issues)
-- **Documentation**: [Wiki](https://github.com/yourusername/safepass/wiki)
-- **Discord**: [Join Community](https://discord.gg/safepass)
+- **Email**: saadoxyz@gmail.com
+- **Documentation**: [Wiki](https://github.com/saadoxyz/Safepass-Frontend-Backend--complete-Project-/documentation)
 
-### Project Maintainers
-
-- **Project Lead**: Lead Developer
-- **Frontend Team**: Frontend Engineers
-- **Backend Team**: Backend Engineers
-- **DevOps Team**: DevOps Engineers
-
-### Community
-
-- **Twitter**: [@SafePassApp](https://twitter.com/safepassapp)
-- **LinkedIn**: [SafePass](https://linkedin.com/company/safepass)
-- **Blog**: [blog.safepass.com](https://blog.safepass.com)
-
----
-
-## 🗺️ Roadmap
-
-### Version 2.0 (Q1 2025)
-- Mobile application (React Native)
-- Biometric authentication support
-- Facial recognition integration
-- Advanced analytics with AI insights
-- Multi-language support (10+ languages)
-
-### Version 2.5 (Q2 2025)
-- Visitor badge printing integration
-- SMS notifications
-- Access control system integration
-- Custom branding and white-labeling
-- API webhooks for third-party integrations
-
-### Version 3.0 (Q3 2025)
-- AI-powered security insights
-- Predictive visitor analytics
-- IoT device integration
-- Blockchain-based audit trails
-- Enterprise SSO integration (SAML, OAuth)
-
-### Future Considerations
-- Video calling for virtual visits
-- Contactless check-in via mobile
-- Integration with building management systems
-- Advanced threat detection
-- Visitor behavior analytics
-
----
-
-## 📊 Project Statistics
+##  Project Statistics
 
 - **Total Commits**: 500+
 - **Lines of Code**: 25,000+
@@ -1527,7 +1478,7 @@ Include in feature requests:
 
 ---
 
-## 🙏 Acknowledgments
+## Acknowledgments
 
 Built with amazing open-source technologies:
 
@@ -1555,23 +1506,9 @@ Special thanks to all contributors and the open-source community!
 
 ---
 
-## 📄 License
-
-MIT License
-
-Copyright (c) 2024 SafePass Team
-
-Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
-
----
-
 <div align="center">
 
-**Made with ❤️ by the SafePass Team**
+**Made by Saad Khan**
 
 ⭐ Star us on GitHub if you find this project useful!
 
